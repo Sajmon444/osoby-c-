@@ -1,0 +1,13 @@
+1.
+level 1
+program pyta uztykownika o imie, nazwisko ,rok urodzenia,  plec, nastepnie wylicza wiek jesli jest pelnoletni pyta o staz pracy jesli nie dostaje status nieletni 
+
+jesli jest pelnoletni program pyta o staz pracy i ustawia status dla mezczyzn powyzej 40 lat dla kobiet powyzej 30 lat emerytura lub pracujacy 
+
+wyswietla wszystkie dane zbioroczo pozniej
+
+level 2
+
+robimy to dla 5 osob 
+
+level 3 dynamiczne pytanie dla ilu osob utworzyc baze 
